@@ -1,0 +1,25 @@
+Python Data Types:
+1. int: Whole numbers
+2. float: Decimal Numbers
+3. str: Text (e.g "Hello World")
+4. bool: True or False (e.g True. False)
+
+Variables: just like containers we store data in
+# Example
+age = 25 #inte (integer)
+height = 5.90 #float (decimal)
+name = "charlie" #str (string)
+is_student  =True #bool (boolean)
+
+Define boolean: Boolean function is mathematical function that takes boolean variables as inputs and produces boolean value as an output (0 or 1)
+boolean : Binary variable that can only have two possible values: 0 (false) or 1(true)
+
+#printing out values
+
+print("name", name)   #outputs charlie
+
+continued in code_python
+
+
+
+
